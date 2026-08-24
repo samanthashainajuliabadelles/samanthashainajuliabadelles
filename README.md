@@ -18,7 +18,6 @@ I'm a **4th-year BS Information Technology student at MSU-IIT**, specializing in
 
 ### 🚀 Some things I've built
 
-* **PharmaGraph PH** — AI-powered knowledge graph for polypharmacy decision support
 * **BantayMissing Iligan** — Graph-based missing person and community alert system
 * **MSUIIT EquipTrack** — Equipment tracking and management system
 
