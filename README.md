@@ -1,4 +1,4 @@
-## Hi there! I'm Samantha Shaina 👋
+## Hi there! I'm Samantha, you can call me Sam 👋
 
 I'm a **4th-year BS Information Technology student at MSU-IIT**, specializing in **Database Systems**. I enjoy building applications that turn data into useful, practical solutions.
 
